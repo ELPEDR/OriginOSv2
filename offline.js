@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1752952309,
+	"version": 1752976807,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -10,8 +10,9 @@
 		"images/settingsicons-sheet0.png",
 		"images/phone-sheet0.png",
 		"images/phoneicon-sheet0.png",
-		"images/sprite6-sheet0.png",
+		"images/ghosttouch-sheet0.png",
 		"images/openanim-sheet0.png",
+		"images/openanim-sheet1.png",
 		"images/iconsmod-sheet0.png",
 		"images/weather-sheet0.png",
 		"images/weathericon-sheet0.png",
@@ -19,6 +20,9 @@
 		"images/appsnames.png",
 		"images/wallpaper-sheet0.png",
 		"images/dock-sheet0.png",
+		"images/wifi_battery-sheet0.png",
+		"images/tbbatterybar.png",
+		"images/batteryfont.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
