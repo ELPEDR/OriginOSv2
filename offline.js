@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1752976807,
+	"version": 1752978909,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -23,6 +23,11 @@
 		"images/wifi_battery-sheet0.png",
 		"images/tbbatterybar.png",
 		"images/batteryfont.png",
+		"images/bgwifi-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/sprite3-sheet0.png",
+		"images/sprite4-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
